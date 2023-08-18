@@ -1,0 +1,110 @@
+.work-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.work-work {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 0, 110, 1);
+}
+.work-text {
+  top: 139px;
+  left: 77px;
+  color: rgba(0, 0, 0, 1);
+  width: 566px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.work-moonlight-frost {
+  left: 554px;
+  width: 493px;
+  bottom: 52px;
+  height: 277px;
+  position: absolute;
+}
+.work-summer-heat {
+  right: 45px;
+  width: 493px;
+  bottom: 51px;
+  height: 277px;
+  position: absolute;
+}
+.work-fairy-tales {
+  left: 30px;
+  width: 493px;
+  bottom: 50px;
+  height: 277px;
+  position: absolute;
+}
+.work-screenshot202308171445071 {
+  top: 276px;
+  left: 550px;
+  width: 483px;
+  height: 277px;
+  position: absolute;
+  padding-right: 50px ;
+}
+.work-rectangle3 {
+  top: 563px;
+  left: 360px;
+  width: 858px;
+  height: 76px;
+  position: absolute;
+}
+.work-text2 {
+  top: 578px;
+  left: 377px;
+  color: rgba(0, 0, 0, 1);
+  width: 866px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.work-rectangle4 {
+  top: 942px;
+  left: 424px;
+  width: 664px;
+  height: 35px;
+  position: absolute;
+}
+.work-text4 {
+  top: 950px;
+  left: 471px;
+  color: rgba(0, 0, 0, 1);
+  width: 646px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
